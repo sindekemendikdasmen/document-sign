@@ -1,5 +1,4 @@
 [sinde.kemendikdasmen.go.id.html](https://github.com/user-attachments/files/28037247/sinde.kemendikdasmen.go.id.html)
-# document-sign<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
